@@ -11,7 +11,7 @@
         <relativePath>../../summer/summer-parent/pom.xml</relativePath>
     </parent>
 
-    <groupId>com.test</groupId>
+    <groupId>com.gracerun</groupId>
     <artifactId>producer-test</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
